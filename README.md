@@ -6,7 +6,7 @@ Functionalities:-
 
 2. Can list all the added task.
 
-3. Can strik throgh the compleated task.
+3. Can strike through the compleated task.
 
 #### Used Technologies : Reactjs, React Hook.
 
