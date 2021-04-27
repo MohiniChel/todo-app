@@ -2,11 +2,11 @@
 
 Functionalities:-
 
-1. Can creat a task.
+1. Can create a task.
 
-2. Can list all the added task.
+2. Can list all the added tasks.
 
-3. Can strike through the compleated task.
+3. Can strike through the completed task.
 
 #### Used Technologies : Reactjs, React Hook.
 
