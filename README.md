@@ -1,3 +1,4 @@
+![Todoapp](https://user-images.githubusercontent.com/83206716/116291708-88702400-a7b2-11eb-950d-32ec71783e06.png)
 
 ## This is a todo app with CARUD operation.
 
@@ -7,9 +8,6 @@ Functionalities
 
 2. Can list all the added task.
 
-3. Can strik throgh![Todoapp]
-(https://user-images.githubusercontent.com/83206716/116290517-28c54900-a7b1-11eb-8447-f53625f0dea0.png)
- compleated task.
 
 
 
