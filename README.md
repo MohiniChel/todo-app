@@ -1,5 +1,3 @@
-![Todoapp](https://user-images.githubusercontent.com/83206716/116291708-88702400-a7b2-11eb-950d-32ec71783e06.png)
-
 ## This is a todo app with CARUD operation.
 
 Functionalities
@@ -9,7 +7,7 @@ Functionalities
 2. Can list all the added task.
 
 
-
+![Todoapp](https://user-images.githubusercontent.com/83206716/116291708-88702400-a7b2-11eb-950d-32ec71783e06.png)
 
 
 Used Technologies : Reactjs, React Hook.
